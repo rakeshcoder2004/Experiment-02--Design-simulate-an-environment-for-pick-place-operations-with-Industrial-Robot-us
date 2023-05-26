@@ -25,6 +25,7 @@ Inspection – Pick and place robots used for inspection applications are equipp
 
 
 ### PROGRAM 
+`````
  import sys
 import os
 sys.path.append(os.path.abspath(r"""E:/RoboDK/Posts/""")) # temporarily add path to POSTS folder
